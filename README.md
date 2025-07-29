@@ -5,11 +5,11 @@
 
 - 📝 I write articles on [https://www.blogger.com/blog/posts/3091710204970488534](https://www.blogger.com/blog/posts/3091710204970488534)
 
-- 💬 Ask me about **web2, python and mysql**
+- 💬 Ask me about **Java, Oops and SQL**
 
 - 📫 How to reach me **vedangwajge2004@gmail.com**
 
-- ⚡ Fun fact **I think I am gonna become a billionaire**
+- ⚡ Fun fact **I think I am gonna become a millionaire**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
