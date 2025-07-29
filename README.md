@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedangwajge&label=Profile%20views&color=0e75b6&style=flat" alt="vedangwajge" /> </p>
 
-- 📝 I regularly write articles on [https://www.blogger.com/blog/posts/3091710204970488534](https://www.blogger.com/blog/posts/3091710204970488534)
+- 📝 I write articles on [https://www.blogger.com/blog/posts/3091710204970488534](https://www.blogger.com/blog/posts/3091710204970488534)
 
 - 💬 Ask me about **web2, python and mysql**
 
